@@ -1,0 +1,14 @@
+/Users/leventebotos/nemestihamer/2/obj/Debug/net7.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leventebotos/nemestihamer/2/obj/Debug/net7.0/2.AssemblyInfoInputs.cache
+/Users/leventebotos/nemestihamer/2/obj/Debug/net7.0/2.AssemblyInfo.cs
+/Users/leventebotos/nemestihamer/2/obj/Debug/net7.0/2.csproj.CoreCompileInputs.cache
+/Users/leventebotos/nemestihamer/2/bin/Debug/net7.0/2
+/Users/leventebotos/nemestihamer/2/bin/Debug/net7.0/2.deps.json
+/Users/leventebotos/nemestihamer/2/bin/Debug/net7.0/2.runtimeconfig.json
+/Users/leventebotos/nemestihamer/2/bin/Debug/net7.0/2.dll
+/Users/leventebotos/nemestihamer/2/bin/Debug/net7.0/2.pdb
+/Users/leventebotos/nemestihamer/2/obj/Debug/net7.0/2.dll
+/Users/leventebotos/nemestihamer/2/obj/Debug/net7.0/refint/2.dll
+/Users/leventebotos/nemestihamer/2/obj/Debug/net7.0/2.pdb
+/Users/leventebotos/nemestihamer/2/obj/Debug/net7.0/2.genruntimeconfig.cache
+/Users/leventebotos/nemestihamer/2/obj/Debug/net7.0/ref/2.dll
