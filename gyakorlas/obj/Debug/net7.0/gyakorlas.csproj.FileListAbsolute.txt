@@ -1,0 +1,14 @@
+/Users/leventebotos/nemestihamer/gyakorlas/obj/Debug/net7.0/gyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leventebotos/nemestihamer/gyakorlas/obj/Debug/net7.0/gyakorlas.AssemblyInfoInputs.cache
+/Users/leventebotos/nemestihamer/gyakorlas/obj/Debug/net7.0/gyakorlas.AssemblyInfo.cs
+/Users/leventebotos/nemestihamer/gyakorlas/obj/Debug/net7.0/gyakorlas.csproj.CoreCompileInputs.cache
+/Users/leventebotos/nemestihamer/gyakorlas/bin/Debug/net7.0/gyakorlas
+/Users/leventebotos/nemestihamer/gyakorlas/bin/Debug/net7.0/gyakorlas.deps.json
+/Users/leventebotos/nemestihamer/gyakorlas/bin/Debug/net7.0/gyakorlas.runtimeconfig.json
+/Users/leventebotos/nemestihamer/gyakorlas/bin/Debug/net7.0/gyakorlas.dll
+/Users/leventebotos/nemestihamer/gyakorlas/bin/Debug/net7.0/gyakorlas.pdb
+/Users/leventebotos/nemestihamer/gyakorlas/obj/Debug/net7.0/gyakorlas.dll
+/Users/leventebotos/nemestihamer/gyakorlas/obj/Debug/net7.0/refint/gyakorlas.dll
+/Users/leventebotos/nemestihamer/gyakorlas/obj/Debug/net7.0/gyakorlas.pdb
+/Users/leventebotos/nemestihamer/gyakorlas/obj/Debug/net7.0/gyakorlas.genruntimeconfig.cache
+/Users/leventebotos/nemestihamer/gyakorlas/obj/Debug/net7.0/ref/gyakorlas.dll
